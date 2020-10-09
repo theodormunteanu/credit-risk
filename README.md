@@ -1,2 +1,2 @@
 # credit-risk
-We will provide here credit risk functions useful to conduct risk management operations
+I will provide here credit risk functions and measures.
